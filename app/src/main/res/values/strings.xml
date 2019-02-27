@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lab3</string>
+
+    <!--Lab2 resources-->
+
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\’m a button</string>
+    <string name="FirstMessage">Here are my widgets:</string>
+    <string name="SecondMessage">Button</string>
+    <string name="ThirdMessage">Check this out!</string>
+    <string name="FourthMessage">Switch on / off</string>
+    <string name="FifthMessage">Type your answer here</string>
+
+    <!--Lab3 resources-->
+
+    <string name="TextViewEmailMessage">Enter your email address:</string>
+    <string name="EditTextEmailHintMessage">Type email here</string>
+    <string name="TextViewPasswordMessage">Type your password:</string>
+    <string name="EditPasswordHintMessage">Type password here</string>
+    <string name="EnterButtonMessage">Login</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+    <string name="TextViewProfileMessage">Your Profile</string>
+    <string name="TextViewNameMessage">Your Name:</string>
+    <string name="EditNameHintMessage">Enter Your Name</string>
+    <string name="TextViewPictureMessageT">Your Picture:</string>
+
+    <string name="TextViewPictureMessageB">Click the button above to take a picture</string>
+
+</resources>
