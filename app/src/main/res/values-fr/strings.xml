@@ -3,7 +3,7 @@
 
     <!--Lab2 resources-->
 
-    <string name="app_name">AndroidLabs</string>
+    <string name="app_name">FrenchAndroidLabs</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\’m a button</string>
     <string name="FirstMessage">Here are my widgets:</string>
@@ -15,7 +15,7 @@
     <!--Lab3 resources-->
 
     <string name="TextViewEmailMessage">Enter your email address:</string>
-    <string name="EditTextEmailHintMessage">Type email here</string>
+    <string name="EditTextEmailHintMessage">Type email ici</string>
     <string name="TextViewPasswordMessage">Type your password:</string>
     <string name="EditPasswordHintMessage">Type password here</string>
     <string name="EnterButtonMessage">Login</string>
@@ -26,10 +26,10 @@
     <string name="EditNameHintMessage">Enter Your Name</string>
     <string name="TextViewPictureMessageT">Your Picture:</string>
 
-    <!--Lab3 resources-->
+    <!--Lab4 resources-->
 
-    <string name="r9Button">Go to chat</string>
+    <string name="r9Button">Allez au Chat</string>
+    <string name="title_activity_chat_room">ActiviteChatRoom</string>
 
     <string name="TextViewPictureMessageB">Click the button above to take a picture</string>
-    <string name="title_activity_chat_room">ChatRoomActivity</string>
 </resources>
