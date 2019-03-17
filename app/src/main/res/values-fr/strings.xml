@@ -32,4 +32,8 @@
     <string name="title_activity_chat_room">ActiviteChatRoom</string>
 
     <string name="TextViewPictureMessageB">Click the button above to take a picture</string>
+
+    <string name="SendButtonMessage">Send</string>
+    <string name="app_chat_room_text_suggestion">Oh la la</string>
+    <string name="ReceiveButtonMessage">Receive</string>
 </resources>
